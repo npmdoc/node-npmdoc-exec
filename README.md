@@ -1,9 +1,14 @@
-# api documentation for  [exec (v0.2.1)](https://github.com/bahamas10/node-exec#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-exec.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-exec) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-exec.svg)](https://travis-ci.org/npmdoc/node-npmdoc-exec)
+# npmdoc-exec
+
+#### api documentation for  [exec (v0.2.1)](https://github.com/bahamas10/node-exec#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-exec.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-exec) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-exec.svg)](https://travis-ci.org/npmdoc/node-npmdoc-exec)
+
 #### Call a child process with the ease of exec and safety of spawn
 
-[![NPM](https://nodei.co/npm/exec.png?downloads=true)](https://www.npmjs.com/package/exec)
+[![NPM](https://nodei.co/npm/exec.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/exec)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-exec/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-exec_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-exec/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-exec/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-exec/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-exec/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-exec/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-exec/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Dave Eddy",
-        "email": "dave@daveeddy.com",
         "url": "http://www.daveeddy.com"
     },
     "bin": {},
@@ -49,13 +53,11 @@
     "main": "exec.js",
     "maintainers": [
         {
-            "name": "bahamas10",
-            "email": "dave@daveeddy.com"
+            "name": "bahamas10"
         }
     ],
     "name": "exec",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "url": "git+https://github.com/bahamas10/node-exec.git",
         "type": "git"
@@ -66,16 +68,6 @@
     "version": "0.2.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module exec](#apidoc.module.exec)
-
-
-
-# <a name="apidoc.module.exec"></a>[module exec](#apidoc.module.exec)
 
 
 
